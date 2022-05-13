@@ -7,7 +7,7 @@ func main() {
 }
 
 /*
-- Estrutura básica: 
+- Estrutura básica:
     - package main.
     - func main: é aqui que tudo começa, é aqui que tudo acaba.
     - import.
